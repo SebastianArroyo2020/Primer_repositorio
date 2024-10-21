@@ -1,7 +1,6 @@
 <?php
 /* CBTIS 89
    Programa que convierte los datos en un arreglo en una cadena de texto
-   Brenda Adilene Correa Antuna
    3°A Programacion Matutino 
 */
 
