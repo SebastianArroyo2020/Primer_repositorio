@@ -1,7 +1,6 @@
 <?php
 /* CBTIS 89
    Programa que Saca las tablas de multiplicar
-   Brenda Adilene Correa Antuna
    3°A Programacion Matutino 
 */
 
